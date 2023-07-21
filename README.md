@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajakta Patil</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
-<img align ="right"  width="300" height ="300" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developecreation&label=Profile%20views&color=0e75b6&style=flat" alt="developecreation" /> </p>
 
 <p align="center">
@@ -12,6 +10,7 @@
   <img src="https://img.shields.io/badge/Languages-Marathi%20,%20Hindi%20%26%20English-blue" />
 </p>
 
+<img align ="right"  width="300" height ="300" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
 
 - 🌱 I’m currently learning Spring boot framework **spring, hibernate**
 
