@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajakta Patil</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
-<img align ="right"  width="400" height ="400" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
+<img align ="right"  width="300" height ="300" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developecreation&label=Profile%20views&color=0e75b6&style=flat" alt="developecreation" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning Spring boot framework **spring, hibernate**
 
-- 👨‍💻 All of my projects are available at my -----
+- 👨‍💻 All of my projects are available at my **[GitHub](https://github.com/prajaktapatil-18?tab=repositories)**
 
 - 💬 Ask me about **Java & Android**
 
