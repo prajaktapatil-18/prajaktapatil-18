@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **prajaktapatil0327@gmail.com**
 
-- 📄 Know about my Experience **[Resume](https://drive.google.com/file/d/13K_TACpD18TeNQxRpFVcglCrYqIkf-Sm/view?usp=sharing)**
+- 📄 Know about my Experience **[Resume](https://www.canva.com/design/DAFdASpx0vs/y_XMwC1ksPGzChdgq2vlQw/edit?utm_content=DAFdASpx0vs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 - ⚡ Fun fact **Computer Programming played a huge role in ending the World War II**
 
