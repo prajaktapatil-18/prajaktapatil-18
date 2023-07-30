@@ -37,9 +37,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
                                                                                                                                                  
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=prajaktappatil&show_icons=true&theme=dark" width = 400 />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=prajaktappatil&theme=dark&hide_border=true" width = 400 />
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prajaktappatil&theme=dark&hide_border=true&layout=compact" width = 400 />
+  <img src = "https://github-readme-stats.vercel.app/api?username=prajaktapatil-18&show_icons=true&theme=dark" width = 400 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=prajaktapatil-18&theme=dark&hide_border=true" width = 400 />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prajaktapatil-18&theme=dark&hide_border=true&layout=compact" width = 400 />
 </p>
  
  <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
