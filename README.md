@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajakta Patil</h1>
-<h3 align="center">A passionate java developer from India</h3>
+<h3 align="center">A passionate Android developer from Mumbai, Maharashtra</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developecreation&label=Profile%20views&color=0e75b6&style=flat" alt="developecreation" /> </p>
 
@@ -12,7 +12,7 @@
 
 <img align ="right"  width="300" height ="300" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
 
-- 🌱 I’m currently learning Spring boot framework **spring, hibernate**
+- 🌱 I’m currently learning **Android development**
 
 - 👨‍💻 All of my projects are available at my **[GitHub](https://github.com/prajaktapatil-18?tab=repositories)**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **prajaktapatil0327@gmail.com**
 
-- 📄 Know about my Experience **[Resume](https://www.canva.com/design/DAFdASpx0vs/-2OEBvR2i3SBHOk3e6Q4GA/watch?utm_content=DAFdASpx0vs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
+- 📄 Know about my Experience **[Resume](https://www.canva.com/design/DAFeGnc2Znw/C6RSpo708VC8ojbUGtbCCw/view?utm_content=DAFeGnc2Znw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
 
 - ⚡ Fun fact **Computer Programming played a huge role in ending the World War II**
 
