@@ -62,6 +62,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
     <img src="https://developer.android.com/static/codelabs/jetpack-compose-animation/img/jetpack_compose_logo_with_rocket.png" width="45"/>
+    <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg " width = "40"/>
   </span>
 </p>
 ---
