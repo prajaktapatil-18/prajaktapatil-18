@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-22-blue" />
+  <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Android%20Development-blue" />
   <img src="https://img.shields.io/badge/Lives-Mumbai%2C%20India-blue" />
   <img src="https://img.shields.io/badge/Languages-Marathi%20%7C%20Hindi%20%7C%20English-blue" />
