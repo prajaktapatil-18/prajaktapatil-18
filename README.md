@@ -1,45 +1,86 @@
 <h1 align="center">Hi 👋, I'm Prajakta Patil</h1>
-<h3 align="center">A passionate Android developer from Mumbai, Maharashtra</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developecreation&label=Profile%20views&color=0e75b6&style=flat" alt="developecreation" /> </p>
+<h3 align="center">Android Developer | Java & Kotlin | Mumbai, India</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Focus-Android,%20Java -blue" />
-  <img src="https://img.shields.io/badge/Lives-Mumbai%20Maharashtra -blue" />
-  <img src="https://img.shields.io/badge/Languages-Marathi%20,%20Hindi%20%26%20English-blue" />
+  <img src="https://komarev.com/ghpvc/?username=prajaktapatil-18&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img align ="right"  width="300" height ="300" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-22-blue" />
+  <img src="https://img.shields.io/badge/Focus-Android%20Development-blue" />
+  <img src="https://img.shields.io/badge/Lives-Mumbai%2C%20India-blue" />
+  <img src="https://img.shields.io/badge/Languages-Marathi%20%7C%20Hindi%20%7C%20English-blue" />
+</p>
 
-- 🌱 I’m currently learning **Android development**
+<img align="right" width="300" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif"/>
 
-- 👨‍💻 All of my projects are available at my **[GitHub](https://github.com/prajaktapatil-18?tab=repositories)**
+---
 
-- 💬 Ask me about **Java & Android**
+### 🚀 About Me
+- 🌱 Currently learning **Advanced Android Development (Kotlin + Jetpack)**
+- 📱 Built multiple Android apps using **Java, Kotlin & Firebase**
+- 💡 Interested in solving real-world problems through mobile apps
+- 🎯 Actively looking for **Android Developer opportunities**
 
-- 📫 How to reach me **prajaktapatil0327@gmail.com**
+---
 
-- 📄 Know about my Experience **[Resume](https://www.canva.com/design/DAFeGnc2Znw/C6RSpo708VC8ojbUGtbCCw/view?utm_content=DAFeGnc2Znw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
+### 👨‍💻 Projects
+- 🔗 Check out my work on GitHub:  
+  👉 https://github.com/prajaktapatil-18
 
-- ⚡ Fun fact **Computer Programming played a huge role in ending the World War II**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 💬 Ask Me About
+- Android Development  
+- Java & Kotlin  
+- Firebase & REST APIs  
+
+---
+
+### 📫 Contact Me
+- 📧 Email: **prajaktapatil0327@gmail.com**
+- 📄 Resume:  
+  👉 https://www.canva.com/design/DAFeGnc2Znw/C6RSpo708VC8ojbUGtbCCw/view
+
+---
+
+### 🔗 Connect With Me
 <p align="left">
-  
-<a href="https://www.linkedin.com/in/prajakta-patil-baba5123b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prajakta-patil-baba5123b" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/prajakta-patil-baba5123b/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Figma" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/codelabs/jetpack-compose-animation/img/jetpack_compose_logo_with_rocket.png" alt="mysql" width="45" height="45"/> </a> < </p>
+---
 
-### ⚙️ &nbsp;GitHub Analytics
-                                                                                                                                                 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=prajaktapatil-18&show_icons=true&theme=dark" width = 400 />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=prajaktapatil-18&theme=dark&hide_border=true" width = 400 />
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prajaktapatil-18&theme=dark&hide_border=true&layout=compact" width = 400 />
+### 🛠️ Languages and Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://developer.android.com/static/codelabs/jetpack-compose-animation/img/jetpack_compose_logo_with_rocket.png" width="45" height="45"/>
 </p>
- 
- <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajaktapatil-18&show_icons=true&theme=dark" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktapatil-18&theme=dark&hide_border=true" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajaktapatil-18&theme=dark&layout=compact" width="400"/>
+</p>
+
+---
+
+### ⚡ Fun Fact
+💻 Computer programming played a major role in ending World War II.
+
+---
+
+<h4 align="center">⭐ If you like my work, consider starring my repositories!</h4>
