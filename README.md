@@ -40,8 +40,7 @@
 ### 📫 Contact Me
 - 📧 Email: **prajaktapatil0327@gmail.com**
 - 📄 Resume:  
-  👉 https://www.canva.com/design/DAFeGnc2Znw/C6RSpo708VC8ojbUGtbCCw/view
-
+  👉 https://www.canva.com/design/DAHL6bRv3go/7cG8fGPhS493xd1079R2Aw/view
 ---
 
 ### 🔗 Connect With Me
